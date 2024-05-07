@@ -65,4 +65,22 @@ extension ProductListViewController:UITableViewDataSource,UITableViewDelegate {
         cell.product = product
         return cell
     }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
