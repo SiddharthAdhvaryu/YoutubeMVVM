@@ -37,7 +37,6 @@ extension ProductListViewController:UITableViewDataSource,UITableViewDelegate {
             guard let self else {
                 return
             }
-            
             switch event {  
             case .loading:
                 print("Product loading...")
